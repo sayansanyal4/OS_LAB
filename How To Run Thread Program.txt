@@ -1,0 +1,15 @@
+gedit thread.c to open file
+
+compile the thread.c file by using ->
+gcc thread.c -o threadprog -lpthread
+
+press enter 
+
+
+To run the output file ->
+./threadprog
+
+press enter 
+
+
+
